@@ -1,0 +1,6 @@
+{
+  "name": "ระบบออกบัตรพนักงานอัตโนมัติ พิมพ์ A3 หน้า-หลังตรงกัน 100%",
+  "description": "ระบบออกแบบและสร้างบัตรพนักงานอัตโนมัติ รองรับพิมพ์ลงกระดาษ A3 พร้อมระบบชดเชยและจัดตำแหน่งหน้า-หลังตรงกัน 100% (Duplex Alignment)",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
